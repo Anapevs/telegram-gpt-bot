@@ -1,4 +1,3 @@
-#recuerda instalar las dependencias 
 
 import openai
 import requests
