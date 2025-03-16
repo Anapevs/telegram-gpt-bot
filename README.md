@@ -4,7 +4,7 @@ This project is a **Telegram bot** integrated with **OpenAI's API** to process a
 
 **📂 Project Structure**
 ```
-/telegram-ai-bot
+/telegram-gpt-bot
 │── src/
 │ ├── bot.py # Main bot script
 │ ├── logger.py # Logging utility
